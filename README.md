@@ -1,0 +1,2 @@
+couseraの問題を解くところ
+pythonでscikit-learnの練習しようと思う
